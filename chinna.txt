@@ -1,2 +1,3 @@
  this is a file from terminal
+This is an update from Feature branch
  This is main branch update
